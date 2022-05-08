@@ -1,2 +1,3 @@
-# projeto-barbearia
-Projeto Barbearia
+# Projeto-Barbearia
+
+Esse é o primeiro site que estou fazendo.
